@@ -2,11 +2,11 @@
 Reserved repository to list a little of my academic life.
 
 ### Education
-* Bachelor's degree of Software Engineering - Centro Universitário Filadélfia (Unifil), (Brazil) [website](https://unifil.br/). 2025 - Ongoing
+* `Bachelor's degree of Software Engineering` - Centro Universitário Filadélfia - Unifil (Brazil) [website](https://unifil.br/). 2025 - ongoing
 
 ### Languages
-* Portuguese: Native speaker, i'm Brazilian
-* English: Professional proficiency
+* **Portuguese:** Native speaker, i'm Brazilian
+* **English:** Professional proficiency
 
 ### Courses
 Below is a list of the online courses i completed.
