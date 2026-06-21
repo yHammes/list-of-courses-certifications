@@ -11,6 +11,9 @@ Reserved repository to list a little of my academic life.
 ### Courses
 Below is a list of the online courses i completed.
 
+#### AI
+*  Foundation: Introduction to LangChain - Python — School: [LangChain Academy](https://academy.langchain.com/) - [Certificate](https://academy.langchain.com/certificates/ud9geuak2b)
+
 #### Python
 * Python Fundamentals Program — School: [DIO](https://www.dio.me/) - [Certificate](https://hermes.dio.me/certificates/S9MULWRY.pdf)
 
