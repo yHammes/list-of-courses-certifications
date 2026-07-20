@@ -26,5 +26,6 @@ Below is a list of the online courses i completed.
 * Tailwind CSS: styling your page with utility classes — School: [Alura](https://www.alura.com.br/) - [Certificate](https://cursos.alura.com.br/certificate/deeffe71-d9ed-49f9-8b96-9632845f49ad?lang)
 * From Scratch: HTML and CSS for Web Projects — School: [Alura](https://www.alura.com.br/) - [Certificate](https://cursos.alura.com.br/degree/certificate/c3ce4920-9a7c-4818-af21-6af1d19f6e81?lang)
 
-#### Dev Tools
+#### Dev Tools & Others
 * Git and GitHub: control and share your code — School: [Alura](https://www.alura.com.br/) - [Certificate](https://cursos.alura.com.br/certificate/ffc10c76-6d3c-4fd2-8c7d-299edb3a598d?lang)
+* ClickUp Novice Certificate exam - School: [Clickup University](https://university.clickup.com/) - [Certificate](clickup_novice_certificate.pdf)
