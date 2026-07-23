@@ -28,4 +28,5 @@ Below is a list of the online courses i completed.
 
 #### Dev Tools & Others
 * Git and GitHub: control and share your code — School: [Alura](https://www.alura.com.br/) - [Certificate](https://cursos.alura.com.br/certificate/ffc10c76-6d3c-4fd2-8c7d-299edb3a598d?lang)
-* ClickUp Novice Certificate exam - School: [Clickup University](https://university.clickup.com/) - [Certificate](clickup_novice_certificate.pdf)
+* ClickUp Novice - School: [Clickup University](https://university.clickup.com/) - [Certificate](clickup_novice_certificate.pdf)
+* ClickUp Intermediate - School: [Clickup University](https://university.clickup.com/) - [Certificate](clickup_intermediate_certificate.pdf)
