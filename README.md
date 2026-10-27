@@ -17,6 +17,9 @@ Below is a list of the online courses i completed.
 #### Python
 * Python Fundamentals Program — School: [DIO](https://www.dio.me/) - [Certificate](https://hermes.dio.me/certificates/S9MULWRY.pdf)
 
+#### C# & .NET
+* Developing Your Application with C# Using DDD — School: [DIO](https://www.dio.me/) - [Certificate](dio_csharp_ddd_certificate.pdf)
+
 #### Laravel & PHP
 * Laravel Program: build web applications in PHP — School: [Alura](https://www.alura.com.br/) - [Certificate](https://cursos.alura.com.br/degree/certificate/8c2c8590-dc23-4099-8e19-9dacf5b3d38f?lang)
 * Learn to Program in PHP Program — School: [Alura](https://www.alura.com.br/) - [Certificate](https://cursos.alura.com.br/degree/certificate/c749f958-49e3-49ed-a369-78864300d1a7?lang)
